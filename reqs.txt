@@ -1,0 +1,24 @@
+A high quality sound board, close-talking, high quality microphone and a nearly soundproof 
+recording environment will often be the compromise between these two extremes.
+
+You will need to define
+Phone set
+Token processing rules (numbers etc)
+Prosodic phrasing method
+Word pronunciation (lexicon and/or letter-to-sound rules)
+Intonation (accents and F0 contour)
+Durations
+Waveform synthesizer
+
+As a practical recommendation to make a new speaker in an existing supported language, you will need to consider
+Waveform synthesis
+Speaker specific intonation
+Speaker specific duration
+
+We also do work on limited domain synthesis in the same framework. For limited domain synthesis, 
+a reasonably small corpus is collected, and used to synthesize a much larger range of utterances in the 
+same basic style. We give an example of recording a talking clock, which, although built from only 24 
+recordings, generates over a thousand unique utterances; these capture a lot of the latent speaker 
+characteristics from the data.
+
+

@@ -1,0 +1,24 @@
+The time is now, exactly five past one, in the morning
+The time is now, just after ten past two, in the morning
+The time is now, a little after quarter past three, in the morning
+The time is now, almost twenty past four, in the morning
+The time is now, exactly twenty-five past five, in the morning
+The time is now, just after half past six, in the morning
+The time is now, a little after twenty-five to seven, in the morning
+The time is now, almost twenty to eight, in the morning
+The time is now, exactly quarter to nine, in the morning
+The time is now, just after ten to ten, in the morning
+The time is now, a little after five to eleven, in the morning
+The time is now, almost twelve.
+The time is now, just after five to one, in the afternoon
+The time is now, a little after ten to two, in the afternoon
+The time is now, exactly quarter to three, in the afternoon
+The time is now, almost twenty to four, in the afternoon
+The time is now, just after twenty-five to five, in the afternoon
+The time is now, a little after half past six, in the evening
+The time is now, exactly twenty-five past seven, in the evening
+The time is now, almost twenty past eight, in the evening
+The time is now, just after quarter past nine, in the evening
+The time is now, almost ten past ten, in the evening
+The time is now, exactly five past eleven, in the evening
+The time is now, a little after quarter to midnight.
